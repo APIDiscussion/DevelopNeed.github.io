@@ -1,0 +1,1058 @@
+[
+    {
+        "id": "355089",
+        "label for title": [
+            [
+                "Difference between StringBuilder and StringBuffer",
+                "api_compare+comparision subject"
+            ]
+        ],
+        "label for body": [
+            [
+                "Is there any performance issues when deciding on any one of these?",
+                "api_compare+comparision scenario"
+            ],
+            [
+                "What is the main difference between StringBuffer and StringBuilder?",
+                "api_compare+comparision subject"
+            ]
+        ],
+        "title": "Difference between StringBuilder and StringBuffer",
+        "body": "What is the main difference between StringBuffer and StringBuilder? Is there any performance issues when deciding on any one of these?"
+    },
+    {
+        "id": "1069066",
+        "label for title": [
+            [
+                "Get current stack trace in Java",
+                "functionality_implementation+desired functionality"
+            ]
+        ],
+        "label for body": [
+            [
+                "How do I get the current stack trace in Java, like how in .NET you can do Environment.StackTrace?",
+                "alternative_solution+alternative description"
+            ],
+            [
+                "BTW, Thread.dumpStack() is not what I want - I want to get the stack trace back, not print it out.",
+                "functionality_implementation+desired functionality"
+            ],
+            [
+                "How do I get the current stack trace in Java, like how in .NET you can do Environment.StackTrace?",
+                "functionality_implementation+desired functionality"
+            ],
+            [
+                "How do I get the current stack trace in Java, like how in .NET you can do Environment.StackTrace?",
+                "alternative_solution+current solution"
+            ]
+        ],
+        "title": "Get current stack trace in Java",
+        "body": "How do I get the current stack trace in Java, like how in .NET you can do Environment.StackTrace? BTW, Thread.dumpStack() is not what I want - I want to get the stack trace back, not print it out."
+    },
+    {
+        "id": "10766492",
+        "label for title": [
+            [
+                "What is the Simplest Way to Reverse an ArrayList?",
+                "non-functional_improvement+implemented functionality"
+            ],
+            [
+                "What is the Simplest Way to Reverse an ArrayList?",
+                "functionality_implementation+desired functionality"
+            ],
+            [
+                "What is the Simplest Way to Reverse an ArrayList?",
+                "non-functional_improvement+improvement"
+            ],
+            [
+                "What is the Simplest Way to Reverse an ArrayList?",
+                "api_usage_learning+used subject"
+            ],
+            [
+                "What is the Simplest Way to Reverse an ArrayList?",
+                "api_usage_learning+usage scenario"
+            ]
+        ],
+        "label for body": [
+            [
+                "What is the simplest way to reverse this ArrayList?",
+                "functionality_implementation+desired functionality"
+            ],
+            [
+                "What is the simplest way to reverse this ArrayList?",
+                "api_usage_learning+usage scenario"
+            ],
+            [
+                "What is the simplest way to reverse this ArrayList?",
+                "api_usage_learning+used subject"
+            ],
+            [
+                "What is the simplest way to reverse this ArrayList?",
+                "non-functional_improvement+implemented functionality"
+            ],
+            [
+                "What is the simplest way to reverse this ArrayList?",
+                "non-functional_improvement+improvement"
+            ],
+            [
+                "-CODE- .",
+                "non-functional_improvement+suboptimal implementation"
+            ]
+        ],
+        "title": "What is the Simplest Way to Reverse an ArrayList?",
+        "body": "What is the simplest way to reverse this ArrayList? -CODE- ."
+    },
+    {
+        "id": "1196192",
+        "label for title": [
+            [
+                "How to read the value of a private field from a different class in Java?",
+                "functionality_implementation+desired functionality"
+            ]
+        ],
+        "label for body": [
+            [
+                "How can I use reflection to get the value of stuffIWant?",
+                "functionality_implementation+desired functionality"
+            ],
+            [
+                "I have a poorly designed class in a 3rd-party JAR and I need to access one of its private fields.",
+                "functionality_implementation+desired functionality"
+            ]
+        ],
+        "title": "How to read the value of a private field from a different class in Java?",
+        "body": "I have a poorly designed class in a 3rd-party JAR and I need to access one of its private fields. For example, why should I need to choose private field is it necessary? -CODE- . How can I use reflection to get the value of stuffIWant?"
+    },
+    {
+        "id": "1816673",
+        "label for title": [
+            [
+                "How do I check if a file exists in Java?",
+                "alternative_solution+alternative description"
+            ],
+            [
+                "How do I check if a file exists in Java?",
+                "functionality_implementation+desired functionality"
+            ]
+        ],
+        "label for body": [
+            [
+                "How can I check whether a file exists, before opening it for reading in Java? (equivalent of Perl's -e $filename).",
+                "functionality_implementation+desired functionality"
+            ],
+            [
+                "How can I check whether a file exists, before opening it for reading in Java? (equivalent of Perl's -e $filename).",
+                "alternative_solution+alternative description"
+            ],
+            [
+                "How can I check whether a file exists, before opening it for reading in Java? (equivalent of Perl's -e $filename).",
+                "alternative_solution+current solution"
+            ]
+        ],
+        "title": "How do I check if a file exists in Java?",
+        "body": "How can I check whether a file exists, before opening it for reading in Java? (equivalent of Perl's -e $filename). The only similar question on SO deals with writing the file and was thus answered using FileWriter which is obviously not applicable here. If possible I'd prefer a real API call returning true/false as opposed to some \"Call API to open a file and catch when it throws an exception which you check for 'no file' in text\", but I can live with the latter."
+    },
+    {
+        "id": "3072173",
+        "label for title": [
+            [
+                "How to call a method after a delay in Android",
+                "alternative_solution+alternative description"
+            ],
+            [
+                "How to call a method after a delay in Android",
+                "functionality_implementation+desired functionality"
+            ]
+        ],
+        "label for body": [
+            [
+                "For example I need to be able to call a method after 5 seconds.",
+                "functionality_implementation+desired functionality"
+            ],
+            [
+                "For example I need to be able to call a method after 5 seconds.",
+                "alternative_solution+alternative description"
+            ],
+            [
+                "I want to be able to call the following method after a specified delay.",
+                "alternative_solution+alternative description"
+            ],
+            [
+                "I want to be able to call the following method after a specified delay.",
+                "functionality_implementation+desired functionality"
+            ],
+            [
+                "In objective c there was something like: -CODE- .",
+                "alternative_solution+current solution"
+            ]
+        ],
+        "title": "How to call a method after a delay in Android",
+        "body": "I want to be able to call the following method after a specified delay. In objective c there was something like: -CODE- . Is there an equivalent of this method in android with java? For example I need to be able to call a method after 5 seconds. -CODE- ."
+    },
+    {
+        "id": "275711",
+        "label for title": [
+            [
+                "Add leading zeroes to number in Java?",
+                "functional_improvement+expect result"
+            ],
+            [
+                "Add leading zeroes to number in Java?",
+                "functionality_implementation+desired functionality"
+            ]
+        ],
+        "label for body": [
+            [
+                "This function fails if num has more digits than digits, and I feel like it should be in the library somewhere (like Integer.toString(x,\"%3d\") or something)",
+                "functional_improvement+actual result"
+            ],
+            [
+                "-CODE- .",
+                "functional_improvement+insufficient implementation"
+            ]
+        ],
+        "title": "Add leading zeroes to number in Java?",
+        "body": "Is there a better way of getting this result? This function fails if num has more digits than digits, and I feel like it should be in the library somewhere (like Integer.toString(x,\"%3d\") or something) -CODE- ."
+    },
+    {
+        "id": "2889777",
+        "label for title": [
+            [
+                "Difference between HashMap, LinkedHashMap and TreeMap",
+                "api_compare+comparision subject"
+            ]
+        ],
+        "label for body": [
+            [
+                "What are Hashtables?",
+                "rationale_analysis+rationale question"
+            ],
+            [
+                "I don't see any difference in the output as all the three has keySet and values.",
+                "api_compare+comparision scenario"
+            ],
+            [
+                "What is the difference between HashMap, LinkedHashMap and TreeMap in Java?",
+                "api_compare+comparision subject"
+            ]
+        ],
+        "title": "Difference between HashMap, LinkedHashMap and TreeMap",
+        "body": "What is the difference between HashMap, LinkedHashMap and TreeMap in Java? I don't see any difference in the output as all the three has keySet and values. What are Hashtables? -CODE- ."
+    },
+    {
+        "id": "1306727",
+        "label for title": [
+            [
+                "Way to get number of digits in an int?",
+                "non-functional_improvement+implemented functionality"
+            ],
+            [
+                "Way to get number of digits in an int?",
+                "functionality_implementation+desired functionality"
+            ]
+        ],
+        "label for body": [
+            [
+                "Is there a neater way for getting the length of an int than this method? -CODE- .",
+                "non-functional_improvement+suboptimal implementation"
+            ],
+            [
+                "Is there a neater way for getting the length of an int than this method? -CODE- .",
+                "functionality_implementation+desired functionality"
+            ],
+            [
+                "Is there a neater way for getting the length of an int than this method? -CODE- .",
+                "non-functional_improvement+implemented functionality"
+            ],
+            [
+                "Is there a neater way for getting the length of an int than this method? -CODE- .",
+                "non-functional_improvement+improvement"
+            ]
+        ],
+        "title": "Way to get number of digits in an int?",
+        "body": "Is there a neater way for getting the length of an int than this method? -CODE- ."
+    },
+    {
+        "id": "20945049",
+        "label for title": [
+            [
+                "Is a Java string really immutable?",
+                "rationale_analysis+rationale question"
+            ]
+        ],
+        "label for body": [
+            [
+                "Why does this program operate like this?",
+                "rationale_analysis+rationale question"
+            ],
+            [
+                "And why is the value of s1 and s2 changed, but not s3?",
+                "rationale_analysis+rationale question"
+            ]
+        ],
+        "title": "Is a Java string really immutable?",
+        "body": "We all know that String is immutable in Java, but check the following code: -CODE- . Why does this program operate like this? And why is the value of s1 and s2 changed, but not s3?"
+    },
+    {
+        "id": "4645020",
+        "label for title": [
+            [
+                "When to use StringBuilder in Java",
+                "api_usage_learning+used subject"
+            ]
+        ],
+        "label for body": [
+            [
+                "If there is such a threshold, what does it depend on (perhaps the string length, but in which way)?",
+                "rationale_analysis+rationale question"
+            ],
+            [
+                "And finally, would you trade the readability and conciseness of the + concatenation for the performance of the StringBuilder in smaller cases like two, three or four strings?",
+                "rationale_analysis+rationale question"
+            ],
+            [
+                "What I mean is this: Is the overhead of creating a StringBuilder object, calling the append() method and finally toString() already smaller then concatenating existing strings with the + operator for two strings, or is it only advisable for more (than two) strings?",
+                "rationale_analysis+rationale question"
+            ]
+        ],
+        "title": "When to use StringBuilder in Java",
+        "body": "It is supposed to be generally preferable to use a StringBuilder for string concatenation in Java. Is this always the case? What I mean is this: Is the overhead of creating a StringBuilder object, calling the append() method and finally toString() already smaller then concatenating existing strings with the + operator for two strings, or is it only advisable for more (than two) strings? If there is such a threshold, what does it depend on (perhaps the string length, but in which way)? And finally, would you trade the readability and conciseness of the + concatenation for the performance of the StringBuilder in smaller cases like two, three or four strings? Explicit use of StringBuilder for regular concatenations is being mentioned as obsolete at obsolete Java optimization tips as well as at Java urban myths."
+    },
+    {
+        "id": "409784",
+        "label for title": [
+            [
+                "What's the simplest way to print a Java array?",
+                "functionality_implementation+desired functionality"
+            ],
+            [
+                "What's the simplest way to print a Java array?",
+                "functional_improvement+expect result"
+            ]
+        ],
+        "label for body": [
+            [
+                "In Java, arrays don't override toString(), so if you try to print one directly, you get the className + @ + the hex of the hashCode of the array, as defined by Object.toString(): -CODE- .",
+                "functional_improvement+insufficient implementation"
+            ],
+            [
+                "But usually we'd actually want something more like [1, 2, 3, 4, 5].",
+                "functional_improvement+expect result"
+            ],
+            [
+                "In Java, arrays don't override toString(), so if you try to print one directly, you get the className + @ + the hex of the hashCode of the array, as defined by Object.toString(): -CODE- .",
+                "functional_improvement+actual result"
+            ]
+        ],
+        "title": "What's the simplest way to print a Java array?",
+        "body": "In Java, arrays don't override toString(), so if you try to print one directly, you get the className + @ + the hex of the hashCode of the array, as defined by Object.toString(): -CODE- . But usually we'd actually want something more like [1, 2, 3, 4, 5]. What's the simplest way of doing that? Here are some example inputs and outputs: -CODE- ."
+    },
+    {
+        "id": "7485670",
+        "label for title": [
+            [
+                "Error: Could not find or load main class",
+                "error_handling+error type"
+            ]
+        ],
+        "label for body": [
+            [
+                "-CODE- .",
+                "error_handling+erroneous implementation"
+            ],
+            [
+                "I am having trouble compiling and running my Java code, intended to allow me to interface Java with a shared object for Vensim, a simulation modeling package.",
+                "error_handling+error occasion"
+            ],
+            [
+                "I get the following error: \"Error: Could not find or load main class SpatialModel \".",
+                "error_handling+error type"
+            ]
+        ],
+        "title": "Error: Could not find or load main class",
+        "body": "I am having trouble compiling and running my Java code, intended to allow me to interface Java with a shared object for Vensim, a simulation modeling package. The following code compiles without error: -CODE- . However, when I try to run the following: -CODE- . I get the following error: \"Error: Could not find or load main class SpatialModel \". My SpatialModel.java code does contain a 'main' method (below), so I'm not sure what the problem is - can anyone please help me out? Thanks. -CODE- ."
+    },
+    {
+        "id": "3301635",
+        "label for title": [
+            [
+                "Change private static final field using Java reflection",
+                "error_handling+error occasion"
+            ]
+        ],
+        "label for body": [
+            [
+                "-CODE- .",
+                "error_handling+erroneous implementation"
+            ],
+            [
+                "I have a class with a private static final field that, unfortunately, I need to change at run-time.",
+                "error_handling+error occasion"
+            ],
+            [
+                "Using reflection I get this error: java.lang.IllegalAccessException: Can not set static final boolean field Is there any way to change the value?",
+                "error_handling+error type"
+            ]
+        ],
+        "title": "Change private static final field using Java reflection",
+        "body": "I have a class with a private static final field that, unfortunately, I need to change at run-time. Using reflection I get this error: java.lang.IllegalAccessException: Can not set static final boolean field Is there any way to change the value? -CODE- ."
+    },
+    {
+        "id": "51438",
+        "label for title": [
+            [
+                "Getting A File's Mime Type In Java",
+                "functionality_implementation+desired functionality"
+            ],
+            [
+                "Getting A File's Mime Type In Java",
+                "functional_improvement+expect result"
+            ]
+        ],
+        "label for body": [
+            [
+                "So far I've tried two utils: JMimeMagic & Mime-Util.",
+                "functional_improvement+insufficient implementation"
+            ],
+            [
+                "I was just wondering how most people fetch a mime type from a file in Java?",
+                "functional_improvement+expect result"
+            ],
+            [
+                "The first gave me memory exceptions, the second doesn't close its streams off properly.",
+                "functional_improvement+actual result"
+            ],
+            [
+                "I was just wondering how most people fetch a mime type from a file in Java?",
+                "functionality_implementation+desired functionality"
+            ]
+        ],
+        "title": "Getting A File's Mime Type In Java",
+        "body": "I was just wondering how most people fetch a mime type from a file in Java? So far I've tried two utils: JMimeMagic & Mime-Util. The first gave me memory exceptions, the second doesn't close its streams off properly. I was just wondering if anyone else had a method/library that they used and worked correctly?"
+    },
+    {
+        "id": "2965747",
+        "label for title": [
+            [
+                "Why do I get an UnsupportedOperationException when trying to remove an element from a List?",
+                "error_handling+error occasion"
+            ],
+            [
+                "Why do I get an UnsupportedOperationException when trying to remove an element from a List?",
+                "error_handling+error type"
+            ]
+        ],
+        "label for body": [
+            [
+                "I get this: -CODE- .",
+                "error_handling+error type"
+            ],
+            [
+                "I have this code: -CODE- .",
+                "error_handling+erroneous implementation"
+            ]
+        ],
+        "title": "Why do I get an UnsupportedOperationException when trying to remove an element from a List?",
+        "body": "I have this code: -CODE- . I get this: -CODE- . How would be this the correct way? Java.15"
+    },
+    {
+        "id": "7438612",
+        "label for title": [
+            [
+                "How to remove the last character from a string?",
+                "functional_improvement+expect result"
+            ],
+            [
+                "How to remove the last character from a string?",
+                "functionality_implementation+desired functionality"
+            ]
+        ],
+        "label for body": [
+            [
+                "For example, the word is \"admirer\"; after I run the method, I get \"admie.\" I want it to return the word admire.",
+                "functional_improvement+actual result"
+            ],
+            [
+                "\" I want it to return the word admire.",
+                "functional_improvement+expect result"
+            ],
+            [
+                "I want to remove the last character from a string.",
+                "functionality_implementation+desired functionality"
+            ],
+            [
+                "I've tried doing this: -CODE- .",
+                "functional_improvement+insufficient implementation"
+            ],
+            [
+                "I want to remove the last character from a string.",
+                "functional_improvement+expect result"
+            ],
+            [
+                "Getting the length of the string - 1 and replacing the last letter with nothing (deleting it), but every time I run the program, it deletes middle letters that are the same as the last letter.",
+                "functional_improvement+insufficient implementation"
+            ],
+            [
+                "Getting the length of the string - 1 and replacing the last letter with nothing (deleting it), but every time I run the program, it deletes middle letters that are the same as the last letter.",
+                "functional_improvement+actual result"
+            ]
+        ],
+        "title": "How to remove the last character from a string?",
+        "body": "I want to remove the last character from a string. I've tried doing this: -CODE- . Getting the length of the string - 1 and replacing the last letter with nothing (deleting it), but every time I run the program, it deletes middle letters that are the same as the last letter. For example, the word is \"admirer\"; after I run the method, I get \"admie.\" I want it to return the word admire."
+    },
+    {
+        "id": "338206",
+        "label for title": [
+            [
+                "Why can't I use switch statement on a String?",
+                "rationale_analysis+rationale question"
+            ]
+        ],
+        "label for body": [
+            [
+                "Can someone explain why I can't do this, as in, the technical way Java's switch statement works?",
+                "rationale_analysis+rationale question"
+            ]
+        ],
+        "title": "Why can't I use switch statement on a String?",
+        "body": "Is this functionality going to be put into a later Java version? Can someone explain why I can't do this, as in, the technical way Java's switch statement works?"
+    },
+    {
+        "id": "299304",
+        "label for title": [
+            [
+                "Why does Java's hashCode() in String use 31 as a multiplier?",
+                "rationale_analysis+rationale question"
+            ]
+        ],
+        "label for body": [
+            [
+                "So why not 29, or 37, or even 97?",
+                "rationale_analysis+rationale question"
+            ],
+            [
+                "Why is 31 used as a multiplier?",
+                "rationale_analysis+rationale question"
+            ]
+        ],
+        "title": "Why does Java's hashCode() in String use 31 as a multiplier?",
+        "body": "Per the Java documentation, the hash code for a String object is computed as: -CODE- . Why is 31 used as a multiplier? I understand that the multiplier should be a relatively large prime number. So why not 29, or 37, or even 97?"
+    },
+    {
+        "id": "18448671",
+        "label for title": [
+            [
+                "How to avoid \"ConcurrentModificationException\" while removing elements from `ArrayList` while iterating it?",
+                "error_handling+error occasion"
+            ],
+            [
+                "How to avoid \"ConcurrentModificationException\" while removing elements from `ArrayList` while iterating it?",
+                "error_handling+error type"
+            ]
+        ],
+        "label for body": [
+            [
+                "Of course, I get a ConcurrentModificationException when trying to remove items from the list at the same time when iterating myArrayList.",
+                "error_handling+error type"
+            ],
+            [
+                "I'm trying to remove some elements from an ArrayList while iterating it like this: -CODE- .",
+                "error_handling+erroneous implementation"
+            ],
+            [
+                "Of course, I get a ConcurrentModificationException when trying to remove items from the list at the same time when iterating myArrayList.",
+                "error_handling+error occasion"
+            ],
+            [
+                "I'm trying to remove some elements from an ArrayList while iterating it like this: -CODE- .",
+                "error_handling+error occasion"
+            ]
+        ],
+        "title": "How to avoid \"ConcurrentModificationException\" while removing elements from `ArrayList` while iterating it?",
+        "body": "I'm trying to remove some elements from an ArrayList while iterating it like this: -CODE- . Of course, I get a ConcurrentModificationException when trying to remove items from the list at the same time when iterating myArrayList. Is there some simple solution to solve this problem?"
+    },
+    {
+        "id": "6416706",
+        "label for title": [
+            [
+                "Easy way to convert Iterable to Collection",
+                "functional_improvement+expect result"
+            ],
+            [
+                "Easy way to convert Iterable to Collection",
+                "api_usage_learning+used subject"
+            ],
+            [
+                "Easy way to convert Iterable to Collection",
+                "api_usage_learning+usage scenario"
+            ],
+            [
+                "Easy way to convert Iterable to Collection",
+                "functionality_implementation+desired functionality"
+            ]
+        ],
+        "label for body": [
+            [
+                "Methods of this library return Iterable<T>, while the rest of my code expects Collection<T>.",
+                "functional_improvement+actual result"
+            ],
+            [
+                "In my application I use 3rd party library (Spring Data for MongoDB to be exact).",
+                "functional_improvement+insufficient implementation"
+            ],
+            [
+                "Is there any utility method somewhere that will let me quickly convert one to the other?",
+                "functionality_implementation+desired functionality"
+            ],
+            [
+                "Methods of this library return Iterable<T>, while the rest of my code expects Collection<T>.",
+                "functional_improvement+expect result"
+            ],
+            [
+                "Is there any utility method somewhere that will let me quickly convert one to the other?",
+                "api_usage_learning+used subject"
+            ],
+            [
+                "Is there any utility method somewhere that will let me quickly convert one to the other?",
+                "functional_improvement+expect result"
+            ]
+        ],
+        "title": "Easy way to convert Iterable to Collection",
+        "body": "In my application I use 3rd party library (Spring Data for MongoDB to be exact). Methods of this library return Iterable<T>, while the rest of my code expects Collection<T>. Is there any utility method somewhere that will let me quickly convert one to the other? I would like to avoid creating a bunch of foreach loops in my code for such a simple thing."
+    },
+    {
+        "id": "2986296",
+        "label for title": [
+            [
+                "What are the differences between ArrayList and Vector?",
+                "api_compare+comparision subject"
+            ]
+        ],
+        "label for body": [
+            [
+                "What are the differences between the two data structures ArrayList and Vector, and where should you use each of them?",
+                "api_compare+comparision scenario"
+            ],
+            [
+                "What are the differences between the two data structures ArrayList and Vector, and where should you use each of them?",
+                "api_compare+comparision subject"
+            ]
+        ],
+        "title": "What are the differences between ArrayList and Vector?",
+        "body": "What are the differences between the two data structures ArrayList and Vector, and where should you use each of them?"
+    },
+    {
+        "id": "3342651",
+        "label for title": [
+            [
+                "I get exception when using Thread.sleep(x) or wait()",
+                "error_handling+error occasion"
+            ]
+        ],
+        "label for body": [
+            [
+                "Is there any step required before using the Thread.sleep() or wait() methods?",
+                "api_usage_learning+used subject"
+            ],
+            [
+                "Is there any step required before using the Thread.sleep() or wait() methods?",
+                "api_usage_learning+usage scenario"
+            ],
+            [
+                "The same error message appears: -CODE- .",
+                "error_handling+error type"
+            ],
+            [
+                "I'm unable to use Thread.sleep(x) or wait().",
+                "error_handling+error occasion"
+            ],
+            [
+                "I have tried to delay - or put to sleep - my Java program, but an error occurs.",
+                "error_handling+error occasion"
+            ]
+        ],
+        "title": "I get exception when using Thread.sleep(x) or wait()",
+        "body": "I have tried to delay - or put to sleep - my Java program, but an error occurs. I'm unable to use Thread.sleep(x) or wait(). The same error message appears: -CODE- . Is there any step required before using the Thread.sleep() or wait() methods?"
+    },
+    {
+        "id": "20363719",
+        "label for title": [
+            [
+                "Java 8 List<V> into Map<K, V>",
+                "functionality_implementation+desired functionality"
+            ],
+            [
+                "Java 8 List<V> into Map<K, V>",
+                "non-functional_improvement+implemented functionality"
+            ],
+            [
+                "Java 8 List<V> into Map<K, V>",
+                "api_usage_learning+usage scenario"
+            ],
+            [
+                "Java 8 List<V> into Map<K, V>",
+                "api_usage_learning+used subject"
+            ]
+        ],
+        "label for body": [
+            [
+                "I want to translate a List of objects into a Map using Java 8's streams and lambdas.",
+                "api_usage_learning+usage scenario"
+            ],
+            [
+                "I want to translate a List of objects into a Map using Java 8's streams and lambdas.",
+                "functionality_implementation+desired functionality"
+            ],
+            [
+                "I want to translate a List of objects into a Map using Java 8's streams and lambdas.",
+                "api_usage_learning+used subject"
+            ],
+            [
+                "I want to translate a List of objects into a Map using Java 8's streams and lambdas.",
+                "non-functional_improvement+implemented functionality"
+            ],
+            [
+                "I want to translate a List of objects into a Map using Java 8's streams and lambdas.",
+                "non-functional_improvement+improvement"
+            ],
+            [
+                "In Guava: -CODE- .",
+                "non-functional_improvement+suboptimal implementation"
+            ],
+            [
+                "I can accomplish this easily using Java 8 and Guava but I would like to know how to do this without Guava.",
+                "non-functional_improvement+improvement"
+            ],
+            [
+                "I can accomplish this easily using Java 8 and Guava but I would like to know how to do this without Guava.",
+                "non-functional_improvement+suboptimal implementation"
+            ],
+            [
+                "-CODE- .",
+                "non-functional_improvement+suboptimal implementation"
+            ]
+        ],
+        "title": "Java 8 List<V> into Map<K, V>",
+        "body": "I want to translate a List of objects into a Map using Java 8's streams and lambdas. This is how I would write it in Java 7 and below. -CODE- . I can accomplish this easily using Java 8 and Guava but I would like to know how to do this without Guava. In Guava: -CODE- . And Guava with Java 8 lambdas. -CODE- ."
+    },
+    {
+        "id": "1036754",
+        "label for title": [
+            [
+                "Difference between wait() and sleep()",
+                "api_compare+comparision subject"
+            ]
+        ],
+        "label for body": [
+            [
+                "What is the difference between a wait() and sleep() in Threads?",
+                "api_compare+comparision scenario"
+            ],
+            [
+                "Is my understanding that a wait()-ing Thread is still in running mode and uses CPU cycles but a sleep()-ing does not consume any CPU cycles correct?",
+                "rationale_analysis+rationale question"
+            ],
+            [
+                "What is the difference between a wait() and sleep() in Threads?",
+                "api_compare+comparision subject"
+            ],
+            [
+                "Why do we have both wait() and sleep(): how does their implementation vary at a lower level?",
+                "rationale_analysis+rationale question"
+            ]
+        ],
+        "title": "Difference between wait() and sleep()",
+        "body": "What is the difference between a wait() and sleep() in Threads? Is my understanding that a wait()-ing Thread is still in running mode and uses CPU cycles but a sleep()-ing does not consume any CPU cycles correct? Why do we have both wait() and sleep(): how does their implementation vary at a lower level?"
+    },
+    {
+        "id": "299495",
+        "label for title": [
+            [
+                "How to add an image to a JPanel?",
+                "functionality_implementation+desired functionality"
+            ],
+            [
+                "How to add an image to a JPanel?",
+                "api_usage_learning+used subject"
+            ],
+            [
+                "How to add an image to a JPanel?",
+                "api_usage_learning+usage scenario"
+            ],
+            [
+                "How to add an image to a JPanel?",
+                "non-functional_improvement+implemented functionality"
+            ]
+        ],
+        "label for body": [
+            [
+                "How to add an image to a JPanel without using the ImageIcon class?",
+                "api_usage_learning+used subject"
+            ],
+            [
+                "How to add an image to a JPanel without using the ImageIcon class?",
+                "non-functional_improvement+improvement"
+            ],
+            [
+                "Is there any (performance or other) problem in using the ImageIcon class to display an image that size in a JPanel?",
+                "rationale_analysis+rationale question"
+            ],
+            [
+                "How to add an image to a JPanel without using the ImageIcon class?",
+                "functionality_implementation+desired functionality"
+            ],
+            [
+                "I have a JPanel to which I'd like to add JPEG and PNG images that I generate on the fly.",
+                "api_usage_learning+used subject"
+            ],
+            [
+                "I have a JPanel to which I'd like to add JPEG and PNG images that I generate on the fly.",
+                "non-functional_improvement+implemented functionality"
+            ],
+            [
+                "I have a JPanel to which I'd like to add JPEG and PNG images that I generate on the fly.",
+                "api_usage_learning+usage scenario"
+            ],
+            [
+                "How to add an image to a JPanel without using the ImageIcon class?",
+                "non-functional_improvement+implemented functionality"
+            ],
+            [
+                "I have a JPanel to which I'd like to add JPEG and PNG images that I generate on the fly.",
+                "functionality_implementation+desired functionality"
+            ],
+            [
+                "All the examples I've seen so far in the Swing Tutorials, specially in the Swing examples use ImageIcons.",
+                "non-functional_improvement+suboptimal implementation"
+            ],
+            [
+                "How to add an image to a JPanel without using the ImageIcon class?",
+                "api_usage_learning+usage scenario"
+            ]
+        ],
+        "title": "How to add an image to a JPanel?",
+        "body": "I have a JPanel to which I'd like to add JPEG and PNG images that I generate on the fly. All the examples I've seen so far in the Swing Tutorials, specially in the Swing examples use ImageIcons. I'm generating these images as byte arrays, and they are usually larger than the common icon they use in the examples, at 640x480. Is there any (performance or other) problem in using the ImageIcon class to display an image that size in a JPanel? What's the usual way of doing it? How to add an image to a JPanel without using the ImageIcon class? Edit: A more careful examination of the tutorials and the API shows that you cannot add an ImageIcon directly to a JPanel. Instead, they achieve the same effect by setting the image as an icon of a JLabel. This just doesn't feel right..."
+    },
+    {
+        "id": "1978933",
+        "label for title": [
+            [
+                "A quick and easy way to join array elements with a separator (the opposite of split) in Java",
+                "functionality_implementation+desired functionality"
+            ],
+            [
+                "A quick and easy way to join array elements with a separator (the opposite of split) in Java",
+                "non-functional_improvement+implemented functionality"
+            ]
+        ],
+        "label for body": [
+            [
+                "See Related .NET question I'm looking for a quick and easy way to do exactly the opposite of split so that it will cause [\"a\",\"b\",\"c\"] to become \"a,b,c\" Iterating through an array requires either adding a condition (if this is not the last element, add the seperator) or using substring to remove the last separator.",
+                "non-functional_improvement+improvement"
+            ],
+            [
+                "I'm sure there is a certified, efficient way to do it (Apache Commons?)",
+                "non-functional_improvement+improvement"
+            ],
+            [
+                "See Related .NET question I'm looking for a quick and easy way to do exactly the opposite of split so that it will cause [\"a\",\"b\",\"c\"] to become \"a,b,c\" Iterating through an array requires either adding a condition (if this is not the last element, add the seperator) or using substring to remove the last separator.",
+                "non-functional_improvement+implemented functionality"
+            ],
+            [
+                "\" Iterating through an array requires either adding a condition (if this is not the last element, add the seperator) or using substring to remove the last separator.",
+                "non-functional_improvement+suboptimal implementation"
+            ],
+            [
+                "See Related .NET question I'm looking for a quick and easy way to do exactly the opposite of split so that it will cause [\"a\",\"b\",\"c\"] to become \"a,b,c\" Iterating through an array requires either adding a condition (if this is not the last element, add the seperator) or using substring to remove the last separator.",
+                "functionality_implementation+desired functionality"
+            ]
+        ],
+        "title": "A quick and easy way to join array elements with a separator (the opposite of split) in Java",
+        "body": "See Related .NET question I'm looking for a quick and easy way to do exactly the opposite of split so that it will cause [\"a\",\"b\",\"c\"] to become \"a,b,c\" Iterating through an array requires either adding a condition (if this is not the last element, add the seperator) or using substring to remove the last separator. I'm sure there is a certified, efficient way to do it (Apache Commons?) How do you prefer doing it in your projects?"
+    },
+    {
+        "id": "1348199",
+        "label for title": [
+            [
+                "What is the difference between the HashMap and Map objects in Java?",
+                "api_compare+comparision subject"
+            ]
+        ],
+        "label for body": [],
+        "title": "What is the difference between the HashMap and Map objects in Java?",
+        "body": "What is the difference between the following maps I create (in another question, people answered using them seemingly interchangeably and I'm wondering if/how they are different): -CODE- ."
+    },
+    {
+        "id": "156275",
+        "label for title": [
+            [
+                "What is the equivalent of the C++ Pair<L,R> in Java?",
+                "alternative_solution+current solution"
+            ]
+        ],
+        "label for body": [
+            [
+                "Is there a good reason why there is no Pair<L,R> in Java?",
+                "rationale_analysis+rationale question"
+            ]
+        ],
+        "title": "What is the equivalent of the C++ Pair<L,R> in Java?",
+        "body": "Is there a good reason why there is no Pair<L,R> in Java? What would be the equivalent of this C++ construct? I would rather avoid reimplementing my own. It seems that 1.6 is providing something similar (AbstractMap.SimpleEntry<K,V>), but this looks quite convoluted."
+    },
+    {
+        "id": "3695230",
+        "label for title": [
+            [
+                "How to use java.String.format in Scala?",
+                "api_usage_learning+used subject"
+            ],
+            [
+                "How to use java.String.format in Scala?",
+                "error_handling+error occasion"
+            ],
+            [
+                "How to use java.String.format in Scala?",
+                "api_usage_learning+usage scenario"
+            ]
+        ],
+        "label for body": [
+            [
+                "But if I place %1, %2, etc. in the string, java.util.UnknownFormatConversionException is thrown pointing to a confusing Java source code piece: -CODE- .",
+                "error_handling+error occasion"
+            ],
+            [
+                "But if I place %1, %2, etc. in the string, java.util.UnknownFormatConversionException is thrown pointing to a confusing Java source code piece: -CODE- .",
+                "error_handling+erroneous implementation"
+            ],
+            [
+                "I am trying to use a .format method of a string.",
+                "error_handling+error occasion"
+            ],
+            [
+                "But if I place %1, %2, etc. in the string, java.util.UnknownFormatConversionException is thrown pointing to a confusing Java source code piece: -CODE- .",
+                "error_handling+error type"
+            ]
+        ],
+        "title": "How to use java.String.format in Scala?",
+        "body": "I am trying to use a .format method of a string. But if I place %1, %2, etc. in the string, java.util.UnknownFormatConversionException is thrown pointing to a confusing Java source code piece: -CODE- . From this I understand that % char is forbidden. If so, then what should I use for argument placeholders? I use Scala 2.8."
+    },
+    {
+        "id": "817856",
+        "label for title": [
+            [
+                "When and how should I use a ThreadLocal variable?",
+                "api_usage_learning+used subject"
+            ]
+        ],
+        "label for body": [
+            [
+                "When should I use a ThreadLocal variable?",
+                "api_usage_learning+used subject"
+            ]
+        ],
+        "title": "When and how should I use a ThreadLocal variable?",
+        "body": "When should I use a ThreadLocal variable? How is it used?"
+    },
+    {
+        "id": "2329358",
+        "label for title": [
+            [
+                "Is there anything like .NET's NotImplementedException in Java?",
+                "alternative_solution+current solution"
+            ]
+        ],
+        "label for body": [
+            [
+                "Is there anything like .NET's NotImplementedException in Java?",
+                "alternative_solution+current solution"
+            ]
+        ],
+        "title": "Is there anything like .NET's NotImplementedException in Java?",
+        "body": "Is there anything like .NET's NotImplementedException in Java?"
+    },
+    {
+        "id": "2793150",
+        "label for title": [
+            [
+                "How to use java.net.URLConnection to fire and handle HTTP requests",
+                "functionality_implementation+desired functionality"
+            ],
+            [
+                "How to use java.net.URLConnection to fire and handle HTTP requests",
+                "api_usage_learning+used subject"
+            ],
+            [
+                "How to use java.net.URLConnection to fire and handle HTTP requests",
+                "api_usage_learning+usage scenario"
+            ]
+        ],
+        "label for body": [
+            [
+                "So, how can I use java.net.URLConnection to fire and handle \"advanced\" HTTP requests?",
+                "api_usage_learning+usage scenario"
+            ],
+            [
+                "So, how can I use java.net.URLConnection to fire and handle \"advanced\" HTTP requests?",
+                "api_usage_learning+used subject"
+            ],
+            [
+                "So, how can I use java.net.URLConnection to fire and handle \"advanced\" HTTP requests?",
+                "functionality_implementation+desired functionality"
+            ]
+        ],
+        "title": "How to use java.net.URLConnection to fire and handle HTTP requests",
+        "body": "Use of java.net.URLConnection is asked about pretty often here, and the Oracle tutorial is too concise about it. That tutorial basically only shows how to fire a GET request and read the response. It doesn't explain anywhere how to use it to among others perform a POST request, set request headers, read response headers, deal with cookies, submit a HTML form, upload a file, etc. So, how can I use java.net.URLConnection to fire and handle \"advanced\" HTTP requests?"
+    },
+    {
+        "id": "13375357",
+        "label for title": [
+            [
+                "Proper use cases for Android UserManager.isUserAGoat()?",
+                "api_usage_learning+used subject"
+            ]
+        ],
+        "label for body": [],
+        "title": "Proper use cases for Android UserManager.isUserAGoat()?",
+        "body": "I was looking at the new APIs introduced in Android 4.2. While looking at the UserManager class I came across the following method: -CODE- . How and when should this be used?"
+    },
+    {
+        "id": "2536829",
+        "label for title": [],
+        "label for body": [],
+        "title": "Hibernate show real SQL",
+        "body": "if I set -CODE- . in my hibernate.cfg.xml configuration file in the console I can see the SQL. But it's not real SQL... Can I see the SQL code that will be passed directly to database? Example: I see -CODE- . Can I see -CODE- . the real SQL?"
+    },
+    {
+        "id": "7642456",
+        "label for title": [],
+        "label for body": [],
+        "title": "IntelliJ - Convert a Java project/module into a Maven project/module",
+        "body": "I have a project on Bitbucket. Only the sources are committed. To retrieve the project onto a new machine, I used Version Control > Checkout from Version Control from within IntelliJ. It then asks whether I would like to create a new project from this source, to which I reply Yes. So far, so good. It creates a nice little Java project for me, consisting of a single module. However, my goal in pulling this project into IntelliJ was to turn it into a Maven project. I cannot find any option anywhere that will let me do this! Is there a way to have IntelliJ just generate a basic empty pom.xml for me, with a name and an artifactId and a repository? Or, is there a way to import the project as a Maven project in the first place? (Whenever I try to create a project from existing source, it only gives me the option of a Java project.)"
+    },
+    {
+        "id": "442564",
+        "label for title": [],
+        "label for body": [],
+        "title": "Avoid synchronized(this) in Java?",
+        "body": "Whenever a question pops up on SO about Java synchronization, some people are very eager to point out that synchronized(this) should be avoided. Instead, they claim, a lock on a private reference is to be preferred. Some of the given reasons are: some evil code may steal your lock (very popular this one, also has an \"accidentally\" variant) all synchronized methods within the same class use the exact same lock, which reduces throughput you are (unnecessarily) exposing too much information Other people, including me, argue that synchronized(this) is an idiom that is used a lot (also in Java libraries), is safe and well understood. It should not be avoided because you have a bug and you don't have a clue of what is going on in your multithreaded program. In other words: if it is applicable, then use it. I am interested in seeing some real-world examples (no foobar stuff) where avoiding a lock on this is preferable when synchronized(this) would also do the job. Therefore: should you always avoid synchronized(this) and replace it with a lock on a private reference? Some further info (updated as answers are given): we are talking about instance synchronization both implicit (synchronized methods) and explicit form of synchronized(this) are considered if you quote Bloch or other authorities on the subject, don't leave out the parts you don't like (e.g. Effective Java, item on Thread Safety: Typically it is the lock on the instance itself, but there are exceptions.) if you need granularity in your locking other than synchronized(this) provides, then synchronized(this) is not applicable so that's not the issue"
+    },
+    {
+        "id": "3881",
+        "label for title": [
+            [
+                "IllegalArgumentException or NullPointerException for a null parameter?",
+                "api_compare+comparision scenario"
+            ],
+            [
+                "IllegalArgumentException or NullPointerException for a null parameter?",
+                "api_compare+comparision subject"
+            ]
+        ],
+        "label for body": [
+            [
+                "I have always been torn in this situation: should I throw an IllegalArgumentException, or a NullPointerException?",
+                "api_compare+comparision subject"
+            ]
+        ],
+        "title": "IllegalArgumentException or NullPointerException for a null parameter?",
+        "body": "I have a simple setter method for a property and null is not appropriate for 
