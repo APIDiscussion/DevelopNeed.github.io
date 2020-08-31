@@ -26,5 +26,7 @@ This folder contains codes for API identification. Folder "text_based" contains 
 ## Annotated Data Expansion
 - [annotated data expansion](https://github.com/developneed/developneed.github.io/tree/master/annotated_data_expansion). This folder contains 17 files corresponding to 17 relevant information types. In each csv file, the column "url" represents Stack Overflow url for posts, "sentence" represents the current sentence for annotating, "title" and "body" are the Stack Overflow question title and body, "arbitration" represents the arbitration result.
  
+## Relavant Question Retrieval
+- [relevant_question_retrieval](https://github.com/developneed/developneed.github.io/tree/master/relevant_question_retrival). This folder contains 4 files. One([experiment_data_100.csv](https://github.com/developneed/developneed.github.io/tree/master/relevant_question_retrival/experiment_data_100.csv)) is about the arbitration of experiment, the other three are experiment results. In file experiment_data_100.csv, the column "url" represents Stack Overflow url for posts,"title" and "body" are the Stack Overflow question title and body, "arbitration" represents the arbitration result. In other three files, the column "id" represents Stack Overflow post id for query,"query" represents query, "related_url" represents the url of retrieval result, "title" represents the title of retrieval result,"arbitration" represents the arbitration result.
 
 It is hereby stated that due to anonymity, some information is hidden and will be disclosed in the future
